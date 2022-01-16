@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsankushsingh
+- 👋 Hi, I’m Ankush Singh
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Pyhon, C++ , html , CSS
 - 📫 How to reach me Using Mail- itsankushsingh@gmail.com
